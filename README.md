@@ -1,5 +1,5 @@
 # Portfolio
 
-<h1 align="center">Привет, мне зовут <a href="https://github.com/DemDim10" target="_blank">Дима</a> 
-<h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
+<h1 align="center">Привет, меня зовут <a href="https://github.com/DemDim10" target="_blank">Дмитрий</a> 
+<h3 align="center">Я специалист по data science</h3>
 
