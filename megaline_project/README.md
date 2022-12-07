@@ -46,3 +46,6 @@
 ## Используемые инструменты
 *python*, *pandas*, *markdown*, *matplotlib*, *seaborn*, *numpy*, *math*, *scipy*
 
+## Ключевые слова
+обработка данных, histogram, boxplot, статистический тест
+
