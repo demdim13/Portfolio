@@ -1,6 +1,6 @@
 <h1 align="center">Привет, меня зовут <a href="https://github.com/DemDim10" target="_blank">Дмитрий</a> 
 <h3 align="center">Я специалист по Data Science</h3>
-<h3 align="center">Вот мой <a href="https://github.com/DemDim10/Portfolio/blob/main/Certificate/Демидов%20Дмитрий%20Александрович_20222DS00611.pdf" target="_blank">сертификат о прохождении обучения</h3>
+<h3 align="center">Вот мой <a href="https://github.com/DemDim10/Portfolio/blob/main/Certificate/Демидов%20Дмитрий%20Александрович_20222DS00611.pdf" target="_blank">сертификат</a> о прохождении обучения</h3>
     
 Здесь представлен мой прогресс за 8 месяцев:
     
