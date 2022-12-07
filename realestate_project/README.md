@@ -24,3 +24,7 @@
 
 ## Используемые инструменты
 *python*, *pandas*, *markdown*, *matplotlib*
+
+## Ключевые слова
+обработка данных, histogram, boxplot, scattermatrix,
+категоризация, scatterplot,  фрод-мониторинг
