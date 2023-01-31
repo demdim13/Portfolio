@@ -24,4 +24,4 @@
 *python*, *pandas*, *markdown*, *Keras*, *Matplotlib*, *Seaborn*, *ResNet50*, *ImageDataGenerator*
 
 ## Ключевые слова
-обработка изображени, нейронные сети
+обработка изображений, нейронные сети
