@@ -19,4 +19,4 @@
 | 12.|<a href="https://github.com/DemDim10/Portfolio/tree/main/wiki_project" target="_blank"> Определение токсчиных комментариев|Машинное обучение|С помощью модели машинного обучение определить токсичные комментарии|Python, Pandas, re, nltk, pymystem3, NumPy, SkLearn| 
 | 13.|<a href="https://github.com/DemDim10/Portfolio/tree/main/cv_regression_project" target="_blank"> Определить возраст покупателей по фото|Машинное обучение|Построить модель машинного обучения, которая будет определять возраст покупателей по фото|Python, Pandas, Markdown, Keras, Matplotlib, Seaborn, ResNet50, ImageDataGenerator|         
 | 14.|<a href="https://github.com/DemDim10/Portfolio/tree/main/steel_project" target="_blank">  Разработка модели машинного обучения для прогнозирования температуры стали на производстве|Машинное обучение|Разработка и тестирование модели машинного обучения, которая по имеющимся фактором предскажет температуру плавления стали, что позволит сократить расход электроэнергии на производстве| Python, Pandas, Matplotlib, Markdown, termcolor, seaborn, NumPy, SkLearn, Catboost|      
-|  .|<a href="" target="_blank">||| 
+|  .|<a href="" target="_blank">|||
