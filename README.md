@@ -1,4 +1,4 @@
-<h1 align="center">Привет, меня зовут <a href="https://github.com/DemDim10" target="_blank">Дмитрий</a> 
+<h1 align="center">Привет, меня зовут <a href="https://github.com/DemDim13" target="_blank">Дмитрий</a> 
 <h3 align="center">Я Аналитик данных / специалист по Data Science</h3>
     
 Вот несколько моих проектов:
